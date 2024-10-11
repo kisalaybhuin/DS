@@ -1,4 +1,4 @@
-//1.3 Create arrays A,B,C and perform c=a+b
+//1.4 Create arrays A,B,C and perform c=a+b
 
 #include<stdio.h>
 #include<conio.h>
